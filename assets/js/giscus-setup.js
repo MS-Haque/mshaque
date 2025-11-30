@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "MS-Haque/MS-Haque",
+    "data-repo": "MS-Haque/mshaque",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
