@@ -31,4 +31,4 @@ Associate Professor of Mechanical Engineering at Angelo State University
 
 **Webpage building in progress**
 
-(https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
