@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -26,9 +26,19 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
 Associate Professor of Mechanical Engineering at Angelo State University
-{: .error }
+
+Research Interests: 
+<ul>
+  <li>Constitutive Modeling</li>
+  <li>Machine Learning</li>
+  <li>Material assessment and Qualification</li>
+  <li>Irradiation damage modeling</li>
+  <li>Creeep Deforamtion and Damage</li>
+  <li>High Entropy Alloys (HEAs)</li>
+  <li>Experiantial Learning</li>
+</ul>
+
 **Webpage building in progress**
 
 
