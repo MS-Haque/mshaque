@@ -7,13 +7,13 @@ nav: true
 nav_order: 6
 ---
 
-**MENG 3351 Measurement and Instrumentation** 
+**MENG 3351 Measurement and Instrumentation** <br>
 (SP 2020, SP 2021, SP 2022, SP 2023, SP 2024, SP 2025)
 
-**MENG 4279 Mech. Engr. Senior Design I** 
+**MENG 4279 Mech. Engr. Senior Design I** <br>
 (Fall 2020, Summer 2021, SP 2022, SP 2023, SP 2025)
 
-**MENG 4380 Mech. Engr. Senior Design II** 
+**MENG 4380 Mech. Engr. Senior Design II** <br>
 (SP 2021, Fall 2021, Fall 2022, SP 2024, Fall 2025)
 
 **MENG 4091 Independent Study** <br>
@@ -31,6 +31,7 @@ nav_order: 6
    
 **ENGR 2201 Computer Aided Design & Prototype Design** <br>
 (SP 2019, Summer 2019, Summer 2020)
+- [Solidworks Basic Tutorial (YouTube)](https://youtube.com/playlist?list=PLXZrj33lBR1q-eY-5_Gv2OjHNVyevV_If&si=Gb3bVayG7Uusvivt)
    
 **ENGR 2302 Engineering Mechanics - Dynamics** <br>
 (Fall 2019, SP 2020, Fall 2020, SP 2021)
@@ -39,7 +40,7 @@ nav_order: 6
 **ENGR 2305 Electrical Circuits** <br>
 (Fall 2023, Fall 2024)
 
-**ENGR 3404 Fluid Mechanics Lab** 
+**ENGR 3404 Fluid Mechanics Lab** <br>
 (Fall 2020)
 - [Fluid Mechanics lab. tutorial (YouTube)](https://youtube.com/playlist?list=PLXZrj33lBR1rG6NdSsgqbnunVS0Q3BjWD&si=7oMjxo9VziBlZh59)
 
