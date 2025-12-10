@@ -45,7 +45,7 @@ ninja.data = [{
             window.location.href = "/mshaque/people/";
           },
         },{id: "nav-teaching",
-          title: "teaching",
+          title: "Teaching",
           description: "",
           section: "Navigation",
           handler: () => {
