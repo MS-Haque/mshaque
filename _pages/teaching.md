@@ -24,7 +24,7 @@ nav_order: 6
 
 **MENG 3441 Mechanisms and Dynamics of Machines**
 (Fall 2022(lab only), Fall 2025)
-- [Mechanisms lab. tutorial (YouTube)] (https://youtube.com/playlist?list=PLXZrj33lBR1pvGEfYsRoR0zeS_Zcs26AU&si=FU_4dou_g-cipWb4)
+- [Mechanisms lab. tutorial (YouTube)](https://youtube.com/playlist?list=PLXZrj33lBR1pvGEfYsRoR0zeS_Zcs26AU&si=FU_4dou_g-cipWb4)
 
 **ENGR 3331 Engineering Materials** 
 (Fall 2018, SP 2019, Fall 2021, Fall 2022, Fall 2023, Fall 2024)
@@ -40,6 +40,6 @@ nav_order: 6
 
 **ENGR 3404 Fluid Mechanics Lab** 
 (Fall 2020)
-- [Fluid Mechanics lab. tutorial (YouTube)] (https://youtube.com/playlist?list=PLXZrj33lBR1rG6NdSsgqbnunVS0Q3BjWD&si=7oMjxo9VziBlZh59)
+- [Fluid Mechanics lab. tutorial (YouTube)](https://youtube.com/playlist?list=PLXZrj33lBR1rG6NdSsgqbnunVS0Q3BjWD&si=7oMjxo9VziBlZh59)
 
    
