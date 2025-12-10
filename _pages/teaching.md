@@ -7,15 +7,6 @@ nav: true
 nav_order: 6
 ---
 
-**ENGR 3331 Engineering Materials** 
-(Fall 2018, SP 2019, Fall 2021, Fall 2022, Fall 2023, Fall 2024)
-   
-**ENGR 2201 Computer Aided Design & Prototype Design** 
-(SP 2019, Summer 2019, Summer 2020)
-   
-**ENGR 2302 Engineering Mechanics - Dynamics** 
-(Fall 2019, SP 2020, Fall 2020, SP 2021)
-   
 **MENG 3351 Measurement and Instrumentation** 
 (SP 2020, SP 2021, SP 2022, SP 2023, SP 2024, SP 2025)
 
@@ -28,14 +19,27 @@ nav_order: 6
 **MENG 4091 Independent Study** 
 (Fall 2020, SP 2021, Fall 2021, SP 2022, Fall 2023, SP 2025, Fall 2025)
 
-**ENGR 3404 Fluid Mechanics Lab** 
-(Fall 2020)
-
 **MENG 4341 Machine & Power System Design** 
 (SP 2022, SP 2023, SP 2024, SP 2025)
+
+**MENG 3441 Mechanisms and Dynamics of Machines**
+(Fall 2022(lab only), Fall 2025)
+- [Mechanisms lab. tutorial] (https://youtube.com/playlist?list=PLXZrj33lBR1pvGEfYsRoR0zeS_Zcs26AU&si=FU_4dou_g-cipWb4)
+
+**ENGR 3331 Engineering Materials** 
+(Fall 2018, SP 2019, Fall 2021, Fall 2022, Fall 2023, Fall 2024)
+   
+**ENGR 2201 Computer Aided Design & Prototype Design** 
+(SP 2019, Summer 2019, Summer 2020)
+   
+**ENGR 2302 Engineering Mechanics - Dynamics** 
+(Fall 2019, SP 2020, Fall 2020, SP 2021)
 
 **ENGR 2305 Electrical Circuits** 
 (Fall 2023, Fall 2024)
 
-**MENG 3441 Mechanisms and Dynamics of Machines**
-(Fall 2022(lab only), Fall 2025)
+**ENGR 3404 Fluid Mechanics Lab** 
+(Fall 2020)
+- [Fluid Mechanics lab. tutorial] (https://youtube.com/playlist?list=PLXZrj33lBR1rG6NdSsgqbnunVS0Q3BjWD&si=7oMjxo9VziBlZh59)
+
+   
