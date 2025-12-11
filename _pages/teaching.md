@@ -7,6 +7,8 @@ nav: true
 nav_order: 6
 ---
 
+**[YouTube Channel](www.youtube.com/@MohammadShafinulHaque)**
+
 **MENG 3351 Measurement and Instrumentation** <br>
 (SP 2020, SP 2021, SP 2022, SP 2023, SP 2024, SP 2025)
 
