@@ -51,13 +51,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/mshaque/teaching/";
           },
-        },{id: "nav-news-gallery",
-          title: "News/Gallery",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/mshaque/news/";
-          },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
               description: "",
