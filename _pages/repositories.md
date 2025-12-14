@@ -7,4 +7,6 @@ nav: true
 nav_order: 3
 ---
 
-![Nanoindenter](/assets/img/Nanoindenter.jpg)
+<p align="center">
+  <img src="{{ site.baseurl }}/assets/img/Nanoindenter.jpg" width="350px" alt="Nanoindenter" />
+</p>
