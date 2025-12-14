@@ -17,5 +17,5 @@ nav_order: 6
 
 ### **Mario Rojo**
 **Project:** Digital engineering coalition for energy system innovation  
-**Resume:** [Download Resume](/assets/pdf/Mario_rojo_cv.pdf)  
+**Resume:** [Download Resume]({{ site.baseurl }}/assets/pdf/Mario_rojo_cv.pdf)   
 **LinkedIn:** <https://www.linkedin.com/in/mario-rojo-21a675367/>
