@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: Onsite Water Sampling and Quality Measurement Device
 description: with background image
 img: assets/img/12.jpg
 importance: 1
