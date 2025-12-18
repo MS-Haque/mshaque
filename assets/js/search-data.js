@@ -453,7 +453,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-onsite-water-sampling-and-quality-measurement-device",
           title: 'Onsite Water Sampling and Quality Measurement Device',
-          description: "with background image",
+          description: "UG Faculty Mentored Grant SP 2025",
           section: "Projects",handler: () => {
               window.location.href = "/mshaque/projects/1_project/";
             },},{id: "projects-project-2",
