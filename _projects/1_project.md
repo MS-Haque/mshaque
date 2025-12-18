@@ -2,7 +2,7 @@
 layout: page
 title: Onsite Water Sampling and Quality Measurement Device
 description: UG Faculty Mentored Grant SP 2025
-img: assets/img/12.jpg
+img: assets/img/Jose_poster.jpg
 importance: 1
 category: Research
 ---
