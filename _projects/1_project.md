@@ -26,3 +26,11 @@ This study proposes the development of an on-site water sampling and quality mea
   <img src="{{ site.baseurl }}/assets/img/Jose_poster.jpg" width="600">
 </p>
 
+---
+
+## Poster
+
+<p align="center">
+  <img src="{{ site.baseurl }}/assets/img/Jose_poster1.jpg" width="1200">
+</p>
+
