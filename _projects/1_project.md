@@ -20,17 +20,9 @@ This study proposes the development of an on-site water sampling and quality mea
 
 ---
 
-## Research Objectives
-
-- Develop radiation-tolerant HEAs for extreme environments
-- Reduce experimental test matrices using surrogate modeling
-- Predict ion-irradiated mechanical properties using ML
-
----
-
 ## Project Images
 
 <p align="center">
-  <img src="{{ site.baseurl }}/assets/img/Jose_poster.jpg" width="300">
+  <img src="{{ site.baseurl }}/assets/img/Jose_poster.jpg" width="600">
 </p>
 
