@@ -8,9 +8,8 @@ category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+**Abstract:** 
+This study proposes the development of an on-site water sampling and quality measurement device designed for integration with an unmanned aerial vehicle (UAV). The primary objectives of this device are to measure critical water quality parameters, including pH levels, dissolved oxygen concentration, and total dissolved solids, as well as to collect water samples for subsequent laboratory analysis. The innovative design aims to enhance operational efficiency and accessibility while minimizing potential hazards associated with in-person sampling. By utilizing a partnered research drone, this device seeks to streamline water quality assessment processes in diverse environments, thereby contributing to improved environmental monitoring and management practices.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
