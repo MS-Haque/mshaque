@@ -4,77 +4,33 @@ title: Onsite Water Sampling and Quality Measurement Device
 description: UG Faculty Mentored Grant SP 2025
 img: assets/img/12.jpg
 importance: 1
-category: work
-related_publications: true
+category: Research
 ---
 
 **Abstract:** 
 This study proposes the development of an on-site water sampling and quality measurement device designed for integration with an unmanned aerial vehicle (UAV). The primary objectives of this device are to measure critical water quality parameters, including pH levels, dissolved oxygen concentration, and total dissolved solids, as well as to collect water samples for subsequent laboratory analysis. The innovative design aims to enhance operational efficiency and accessibility while minimizing potential hazards associated with in-person sampling. By utilizing a partnered research drone, this device seeks to streamline water quality assessment processes in diverse environments, thereby contributing to improved environmental monitoring and management practices.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+---
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+- **Funding:** ASU UG Faculty-Mentored Grant
+- **Collaborator:** Dr. Soyoon Kum
+- **Student:** Jose Arteaga
+- **Award Amount:** $3500
+- **Duration:** SP 2025
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+---
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+## Research Objectives
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+- Develop radiation-tolerant HEAs for extreme environments
+- Reduce experimental test matrices using surrogate modeling
+- Predict ion-irradiated mechanical properties using ML
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+---
 
-{% raw %}
+## Project Images
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+<p align="center">
+  <img src="{{ site.baseurl }}/assets/img/Jose_poster.jpg" width="300">
+</p>
 
-{% endraw %}
