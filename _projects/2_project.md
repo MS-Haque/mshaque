@@ -12,10 +12,10 @@ category: Research
 ---
 
 - **Funding:** Independent Study 
-- **Collaborator:** Dr. Soyoon Kum
+- **Collaborator:** 
 - **Student:** Adrian Campos and Sarah Odale 
 - **Award Amount:** 
-- **Duration:** Fall 2025
+- **Duration:** Fall 2023
 
 ---
 
