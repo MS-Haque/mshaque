@@ -466,9 +466,9 @@ ninja.data = [{
           description: "UG Faculty Mentored Grant Fall 2023",
           section: "Projects",handler: () => {
               window.location.href = "/mshaque/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-design-and-improvement-of-a-delta-robot-3d-printer",
+          title: 'Design and Improvement of a Delta Robot 3D Printer',
+          description: "UG Faculty Mentored Grant SP 2022",
           section: "Projects",handler: () => {
               window.location.href = "/mshaque/projects/4_project/";
             },},{id: "projects-project-5",
