@@ -471,9 +471,9 @@ ninja.data = [{
           description: "UG Faculty Mentored Grant SP 2022",
           section: "Projects",handler: () => {
               window.location.href = "/mshaque/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-comparison-of-unit-cell-lattice-structures-under-compression",
+          title: 'Comparison of Unit Cell Lattice Structures Under Compression',
+          description: "ASU UG Honors Program Course SP 2022",
           section: "Projects",handler: () => {
               window.location.href = "/mshaque/projects/5_project/";
             },},{id: "projects-project-6",
