@@ -458,7 +458,7 @@ ninja.data = [{
               window.location.href = "/mshaque/projects/1_project/";
             },},{id: "projects-active-aero-rear-wing",
           title: 'Active Aero Rear Wing',
-          description: "UG Faculty Mentored Grant Fall 2023",
+          description: "Independent Study Fall 2023",
           section: "Projects",handler: () => {
               window.location.href = "/mshaque/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
