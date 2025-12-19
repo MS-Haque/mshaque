@@ -476,9 +476,9 @@ ninja.data = [{
           description: "ASU UG Honors Program Course SP 2022",
           section: "Projects",handler: () => {
               window.location.href = "/mshaque/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-comparison-of-larson-miller-and-manson-haferd-creep-rupture-model-for-inconel-740",
+          title: 'Comparison of Larson-Miller and Manson-Haferd Creep Rupture Model for Inconel 740',
+          description: "Independent Study SP 2021",
           section: "Projects",handler: () => {
               window.location.href = "/mshaque/projects/6_project/";
             },},{id: "projects-project-7",
