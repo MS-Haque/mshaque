@@ -1,80 +1,35 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: Comparison of Unit Cell Lattice Structures Under Compression
+description: ASU UG Honors Program Course SP 2022
+img: assets/img/Logan.jpg
+importance: 5
+category: Research
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+**Abstract:** 
+A unit cell is the smallest portion of a crystal lattice and contains the three-dimensional pattern of the entire crystal. The purpose of testing and analyzing various unit cell lattice structures under loading is their application to large-scale structures. Testing is performed to understand the specific properties of the lattice structure. By analyzing which properties cause a structure to deflect more elastically, withstand higher loads, or any combination of desirable properties, they can then be implemented into larger-scale designs. Another purpose is to understand the strength-to-relative density relationship of a structure. By modifying the relative density of a structure, the durability can be changed. However, there will be a point in which increasing the relative density further will no longer be beneficial to the design and will either be over-engineered or reduce elements of the structure designed to amplify different properties. By comparing these results on a unit cell basis, specific elements in the lattice structure design can be associated with specific properties. The testing and analysis of unit cell lattice structures under loading provide large-scale results on a small-scale budget and provide insight into broad-scale structural designs. The results of these tests show how different lattice structures amplify specific structural properties. The Edge structure withstood the highest loading force of 29.70 kN, but at the lowest displacement (before necking) of 2.02 mm. In contrast, the NPR Type B withstood a rather low loading force of 4.01 kN but was able to displace 3.71 mm (before necking).
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+---
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+- **Funding:** ASU UG Honors Program Course (3 credits)
+- **Collaborator:** 
+- **Student:** Logan Drake
+- **Award Amount:** 
+- **Duration:** SP 2022
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+---
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+## Project Images
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+<p align="center">
+  <img src="{{ site.baseurl }}/assets/img/Logan.jpg" width="600">
+</p>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+---
 
-{% raw %}
+## Poster
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+<p align="center">
+  <img src="{{ site.baseurl }}/assets/img/Logan_poster.jpg" width="1200">
+</
