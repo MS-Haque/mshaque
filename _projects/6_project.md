@@ -2,7 +2,7 @@
 layout: page
 title: Comparison of Larson-Miller and Manson-Haferd Creep Rupture Model for Inconel 740
 description: Independent Study SP 2021
-img: assets/img/Logan.jpg
+img: assets/img/Ismael_Cecilio.jpg
 importance: 6
 category: Research
 ---
