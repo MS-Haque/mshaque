@@ -31,5 +31,5 @@ A personal assistant robot can be helpful in a lot of forms, it can improve prod
 ## Poster
 
 <p align="center">
-  <img src="{{ site.baseurl }}/assets/img/Edmundo_poster.jpg" width="1200">
+  <img src="{{ site.baseurl }}/assets/img/Edmundo_poster.jpg" width="1500">
 </p>
