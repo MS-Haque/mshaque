@@ -31,5 +31,5 @@ Active aerodynamics are a critical aspect of automotive engineering, optimizing 
 ## Poster
 
 <p align="center">
-  <img src="{{ site.baseurl }}/assets/img/Adrian_poster.png" width="1500">
+  <img src="{{ site.baseurl }}/assets/img/Adrian_poster.png" width="1000">
 </p>
