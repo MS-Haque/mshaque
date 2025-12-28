@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/mshaque/blog/";
           },
-        },{id: "nav-projects",
-          title: "Projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/mshaque/projects/";
-          },
         },{id: "nav-mataq-lab",
           title: "MatAQ Lab",
           description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
