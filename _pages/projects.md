@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection: UG Research and Senior Design Capstone projects 
+description: UG Research and Senior Design Capstone projects 
 nav: true
 nav_order: 2
 display_categories: [Research, Capstone, fun]
