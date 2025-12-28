@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Projects/Capstone
 permalink: /projects/
 description: UG Research and Senior Design Capstone projects 
 nav: true
