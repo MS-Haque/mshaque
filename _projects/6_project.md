@@ -7,14 +7,14 @@ importance: 6
 category: Research
 ---
 
-**Abstract:** 
+**Abstract:**  
 
 ---
 
 - **Funding:** MENG 4091 Independent Study Course (3 credits)
-- **Collaborator:** 
+- **Collaborator:**  
 - **Student:** Logan Drake and Ismael Cecilio
-- **Award Amount:** 
+- **Award Amount:**  
 - **Duration:** SP 2021
 
 ---
@@ -22,7 +22,9 @@ category: Research
 ## Project Images
 
 <p align="center">
-  <img src="{{ site.baseurl }}/assets/img/Ismael_Cecilio.jpg" width="600">
+  <img src="{{ site.baseurl }}/assets/img/Ismael_Cecilio.jpg"
+       style="max-width:600px; width:100%; height:auto;"
+       alt="Project Image">
 </p>
 
 ---
@@ -30,5 +32,8 @@ category: Research
 ## Poster
 
 <p align="center">
-  <img src="{{ site.baseurl }}/assets/img/Ismael_poster.jpg" width="1200">
+  <img src="{{ site.baseurl }}/assets/img/Ismael_poster.jpg"
+       style="max-width:1200px; width:100%; height:auto;"
+       alt="Project Poster">
 </p>
+
