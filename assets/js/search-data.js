@@ -16,8 +16,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/mshaque/blog/";
           },
-        },{id: "nav-projects",
-          title: "Projects",
+        },{id: "nav-projects-capstone",
+          title: "Projects/Capstone",
           description: "UG Research and Senior Design Capstone projects",
           section: "Navigation",
           handler: () => {
