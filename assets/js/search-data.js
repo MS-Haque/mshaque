@@ -481,9 +481,9 @@ ninja.data = [{
           description: "Independent Study SP 2021",
           section: "Projects",handler: () => {
               window.location.href = "/mshaque/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-improvements-to-a-welding-manipulator",
+          title: 'Improvements to a Welding Manipulator',
+          description: "Senior Design Capstone Project",
           section: "Projects",handler: () => {
               window.location.href = "/mshaque/projects/7_project/";
             },},{id: "projects-project-8",
