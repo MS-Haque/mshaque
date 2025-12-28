@@ -31,4 +31,4 @@ category: Research
 
 <p align="center">
   <img src="{{ site.baseurl }}/assets/img/Ismael_poster.jpg" width="1200">
-</
+</p>
