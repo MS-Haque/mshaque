@@ -36,13 +36,13 @@ as help from other students at Angelo State University.
 
 ## Project Images
 
-![Welding Manipulator](/mshaque/assets/img/weldingmanipulator.jpg)
+![Welding Manipulator](/mshaque/assets/img/weldingmanipulator.png)
 
-![Welding Manipulator – Detail 1](/mshaque/assets/img/weldingmanipulator1.jpg)
+![Welding Manipulator – Detail 1](/mshaque/assets/img/weldingmanipulator1.png)
 
-![Welding Manipulator – Detail 2](/mshaque/assets/img/weldingmanipulator2.jpg)
+![Welding Manipulator – Detail 2](/mshaque/assets/img/weldingmanipulator2.png)
 
-![Welding Manipulator – Detail 3](/mshaque/assets/img/weldingmanipulator3.jpg)
+![Welding Manipulator – Detail 3](/mshaque/assets/img/weldingmanipulator3.png)
 
 
 
