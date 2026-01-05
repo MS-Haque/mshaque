@@ -37,7 +37,7 @@ as help from other students at Angelo State University.
 ## Project Images
 
 <p align="center">
-  <img src="{{ site.baseurl }}/assets/img/weldingmanipulator.jpg"
+  <img src="{{ '/assets/img/weldingmanipulator.jpg' | relative_url }}"
        style="max-width:600px; width:100%; height:auto;"
        alt="Project Image">
 </p>
@@ -45,15 +45,16 @@ as help from other students at Angelo State University.
 ---
 
 <p align="center">
-  <img src="{{ site.baseurl }}/assets/img/weldingmanipulator1.jpg"
+  <img src="{{ '/assets/img/weldingmanipulator1.jpg' | relative_url }}"
        style="max-width:1200px; width:100%; height:auto;"
-       alt="Project Poster">
+       alt="Project Image 2">
 </p>
+
 ---
 
 <p align="center">
-  <img src="{{ site.baseurl }}/assets/img/weldingmanipulator2.jpg"
+  <img src="{{ '/assets/img/weldingmanipulator2.jpg' | relative_url }}"
        style="max-width:1200px; width:100%; height:auto;"
-       alt="Project Poster">
+       alt="Project Image 3">
 </p>
 
