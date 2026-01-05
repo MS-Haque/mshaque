@@ -37,17 +37,22 @@ as help from other students at Angelo State University.
 ## Project Images
 
 <p align="center">
-  <img src="{{ site.baseurl }}/assets/img/Ismael_Cecilio.jpg"
+  <img src="{{ site.baseurl }}/assets/img/weldingmanipulator.jpg"
        style="max-width:600px; width:100%; height:auto;"
        alt="Project Image">
 </p>
 
 ---
 
-## Poster
+<p align="center">
+  <img src="{{ site.baseurl }}/assets/img/weldingmanipulator1.jpg"
+       style="max-width:1200px; width:100%; height:auto;"
+       alt="Project Poster">
+</p>
+---
 
 <p align="center">
-  <img src="{{ site.baseurl }}/assets/img/Ismael_poster.jpg"
+  <img src="{{ site.baseurl }}/assets/img/weldingmanipulator2.jpg"
        style="max-width:1200px; width:100%; height:auto;"
        alt="Project Poster">
 </p>
