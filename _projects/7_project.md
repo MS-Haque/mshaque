@@ -42,4 +42,6 @@ as help from other students at Angelo State University.
 
 ![Welding Manipulator – Detail 2]( {{ '/assets/img/weldingmanipulator2.jpg' | relative_url }} )
 
+![Welding Manipulator – Detail 2]( {{ '/assets/img/weldingmanipulator3.jpg' | relative_url }} )
+
 
