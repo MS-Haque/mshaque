@@ -6,16 +6,13 @@ img: assets/img/weldingmanipulator.jpg
 importance: 7
 category: Capstone
 ---
-- **Client & Funding:** MENG 4091 Independent Study Course (3 credits)
-- **Collaborator:**  
+- **Client & Funding:** Wendland Manufacturing Corporation, San Angelo, TX
 - **Student:** Lindsay Barnes, Alan Backlund, Joseph Gomez
-- **Award Amount:**  
 - **Duration:** Fall 2022 - SP 2021 (MENG 4279 and MENG 4380 ME Senior Design I and II)
 
 ---
 
 **Abstract:**  
-
 As part of the new Mechanical Engineering program at Angelo State University, senior-level
 capstone students partnered with Wendland Manufacturing, to develop a new concept design to
 improve upon the existing design of a custom-built pressure vessel welder manipulator located at
