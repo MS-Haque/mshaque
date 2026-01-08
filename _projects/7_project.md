@@ -8,7 +8,7 @@ category: Capstone
 ---
 - **Client & Funding:** Wendland Manufacturing Corporation, San Angelo, TX
 - **Student:** Lindsay Barnes, Alan Backlund, Joseph Gomez
-- **Duration:** Fall 2022 - SP 2021 (MENG 4279 and MENG 4380 ME Senior Design I and II)
+- **Duration:** Fall 2020 - SP 2021 (MENG 4279 and MENG 4380 ME Senior Design I and II)
 
 ---
 
