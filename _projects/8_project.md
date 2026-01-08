@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Improvements to a Welding Manipulator
+title: Design and Fabrication of a Liquefaction Demonstrator
 description: Senior Design Capstone Project 
 img: assets/img/weldingmanipulator.jpg
-importance: 7
+importance: 8
 category: Capstone
 ---
-- **Client & Funding:** Wendland Manufacturing Corporation, San Angelo, TX
-- **Student:** Lindsay Barnes, Alan Backlund, Joseph Gomez
-- **Duration:** Fall 2022 - SP 2021 (MENG 4279 and MENG 4380 ME Senior Design I and II)
+- **Client & Funding:** DLH Department of Engineering, ASU, San Angelo, TX
+- **Student:** John Carrico, Ryan Ramoneda, Stephen Stipanovic
+- **Duration:** Fall 2020 - SP 2021 (MENG 4279 and MENG 4380 ME Senior Design I and II)
 
 ---
 
