@@ -2,7 +2,7 @@
 layout: page
 title: Design and Fabrication of a Liquefaction Demonstrator
 description: Senior Design Capstone Project 
-img: assets/img/weldingmanipulator.jpg
+img: assets/img/liquefaction.jpg
 importance: 8
 category: Capstone
 ---
