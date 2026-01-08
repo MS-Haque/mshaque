@@ -486,9 +486,9 @@ ninja.data = [{
           description: "Senior Design Capstone Project",
           section: "Projects",handler: () => {
               window.location.href = "/mshaque/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+            },},{id: "projects-improvements-to-a-welding-manipulator",
+          title: 'Improvements to a Welding Manipulator',
+          description: "Senior Design Capstone Project",
           section: "Projects",handler: () => {
               window.location.href = "/mshaque/projects/8_project/";
             },},{id: "projects-project-9",
