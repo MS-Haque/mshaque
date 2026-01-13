@@ -13,36 +13,19 @@ category: Capstone
 ---
 
 **Abstract:**  
-As part of the new Mechanical Engineering program at Angelo State University, senior-level
-capstone students partnered with Wendland Manufacturing, to develop a new concept design to
-improve upon the existing design of a custom-built pressure vessel welder manipulator located at
-their production facility. Two main problems were presented by the client related to the existing
-design. The first problem was related to the safety of the operator and bystanders while the machine
-is in use. The second problem was related to the need for physical manipulation of the machine by
-the operator. The existing design presented multiple inefficiencies that could be addressed by
-developing new design solutions. These solutions were focused on adding mechanical systems to
-improve the raising and lowering movements as well as the rotational movements of the machine.
-Each design solution integrated new safety measures aimed at preventing injury to not only the
-operator but also the machine itself. Utilizing mechanical, structural, electrical, and industrial
-engineering theory, concept solutions are proposed that meet the requirements set forth by the
-client. Gearmotors, sprockets, roller chains were determined to be the best solution for handling
-the movement of the machine. Limit switches and a safety latch mechanism using shock absorbers
-were determined to be the best solutions to improving the safety of the machine and the operator.
-BGB Mechanical developed the proposed solutions with the help of Angelo State University
-faculty, industry professionals at Wendland Manufacturing and Indeco Industrial Electric, as well
-as help from other students at Angelo State University.
+This capstone team was assigned the task of designing and fabricating a liquefaction demonstrator. The machine needed to be capable of producing both fluid flow-induced and shake-induced liquefaction in the soil in a way that was appropriate for classroom demonstrations. This project required background research on mechanical engineering and geotechnical engineering principles. To design such a machine that met the required objectives, the objectives first had to be defined. To do this, meetings were held with the client, Dr. William Kitch, to get a set of requirements and objectives for the project. Meetings were also held with various professors at Angelo State University to gain more information and a better understanding of geotechnical principles, pump selection parameters, and other mechanical engineering principles. The students also did their research by consulting textbooks, research papers, and online sources. The students, after researching the relevant topics and conducting experiments, were able to successfully design and fabricate a liquefaction machine that could be used to demonstrate both fluid flow and shake-induced liquefaction. All the design work was done by the students. The machine consists of modified prefabricated and completely custom-built parts and components. The only limitations on the project were the time frame for its design and fabrication, the budget for the project, and the skill level of the students. These limitations did not inhibit the students from producing a successful liquefaction demonstration machine. 
 
 ---
 
 ## Project Images
 
-![Welding Manipulator](/mshaque/assets/img/weldingmanipulator.png)
+![Liquefaction](/mshaque/assets/img/liquefaction.png)
 
-![Welding Manipulator – Detail 1](/mshaque/assets/img/weldingmanipulator1.png)
+![Liquefaction – Detail 1](/mshaque/assets/img/liquefaction1.png)
 
-![Welding Manipulator – Detail 2](/mshaque/assets/img/weldingmanipulator2.png)
+![Liquefaction – Detail 2](/mshaque/assets/img/liquefaction2.png)
 
-![Welding Manipulator – Detail 3](/mshaque/assets/img/weldingmanipulator3.png)
+
 
 
 
