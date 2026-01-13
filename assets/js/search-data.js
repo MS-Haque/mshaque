@@ -491,9 +491,9 @@ ninja.data = [{
           description: "Senior Design Capstone Project",
           section: "Projects",handler: () => {
               window.location.href = "/mshaque/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+            },},{id: "projects-designing-the-frame-of-a-commercial-tire-testing-trailer-report",
+          title: 'Designing the Frame of a Commercial Tire Testing Trailer Report',
+          description: "Senior Design Capstone Project",
           section: "Projects",handler: () => {
               window.location.href = "/mshaque/projects/9_project/";
             },},{
