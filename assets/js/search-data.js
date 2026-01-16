@@ -451,8 +451,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-designing-the-frame-of-a-commercial-tire-testing-trailer-report",
-          title: 'Designing the Frame of a Commercial Tire Testing Trailer Report',
+          section: "News",},{id: "projects-design-improvement-to-a-volatizer-heat-exchanger-to-vaporize-ethylene-oxide",
+          title: 'Design Improvement to a volatizer (heat exchanger) to vaporize ethylene oxide',
           description: "Senior Design Capstone Project",
           section: "Projects",handler: () => {
               window.location.href = "/mshaque/projects/10_project/";
