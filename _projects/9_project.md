@@ -2,7 +2,7 @@
 layout: page
 title: Designing the Frame of a Commercial Tire Testing Trailer Report
 description: Senior Design Capstone Project 
-img: assets/img/liquefaction.jpg
+img: assets/img/goodyear.jpg
 importance: 9
 category: Capstone
 ---
@@ -19,10 +19,12 @@ The senior-level Mechanical Engineering capstone students partnered with Goodyea
 
 ## Project Images
 
-![Liquefaction](/mshaque/assets/img/liquefaction.png)
+![Trailer](/mshaque/assets/img/goodyear.png)
 
-![Liquefaction – Detail 1](/mshaque/assets/img/liquefaction1.png)
+![Trailer](/mshaque/assets/img/goodyear1.png)
 
-![Liquefaction – Detail 2](/mshaque/assets/img/liquefaction2.png)
+![Trailer](/mshaque/assets/img/goodyear2.png)
+
+![Trailer](/mshaque/assets/img/goodyear3.png)
 
 
