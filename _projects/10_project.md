@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Designing the Frame of a Commercial Tire Testing Trailer Report
+title: Design Improvement to a volatizer (heat exchanger) to vaporize ethylene oxide
 description: Senior Design Capstone Project 
 img: assets/img/Heatex.jpg
 importance: 10
