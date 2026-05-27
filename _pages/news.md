@@ -8,7 +8,7 @@ nav_order: 7
 
 - **May 2026:** Finalist at Angelo State President's Award for Faculty Excellence in Research!
   <img src="{{ site.baseurl }}/assets/img/research_award.jpg" alt="Award ceremony" width="300">
-  <img src="{{ site.baseurl }}/assets/img/research_award1.jpg" alt="Award ceremony" width="300">
+  <img src="{{ site.baseurl }}/assets/img/research_award1.jpg" alt="Award ceremony" width="250">
   
 - **May 2022:** Finalist at Angelo State President's Award for Faculty Excellence in Teaching!
   <img src="{{ site.baseurl }}/assets/img/teaching_award.jpg" alt="Award ceremony" width="300">
