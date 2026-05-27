@@ -6,4 +6,6 @@ nav: true
 nav_order: 7
 ---
 
+- **May 2022:** Finalist at Angelo State President's Award for Faculty Excellence in Teaching!
+  ![Project Launch Logo](/assets/img/teaching_award.jpg)
 
