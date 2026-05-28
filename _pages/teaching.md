@@ -10,7 +10,7 @@ nav_order: 6
 **[YouTube Channel](www.youtube.com/@MohammadShafinulHaque)**
 
 **MENG 3351 Measurement and Instrumentation** <br>
-(SP 2020, SP 2021, SP 2022, SP 2023, SP 2024, SP 2025)
+(SP 2020, SP 2021, SP 2022, SP 2023, SP 2024, SP 2025, SP 2026)
 
 **MENG 4279 Mech. Engr. Senior Design I** <br>
 (Fall 2020, Summer 2021, SP 2022, SP 2023, SP 2025)
@@ -19,10 +19,10 @@ nav_order: 6
 (SP 2021, Fall 2021, Fall 2022, SP 2024, Fall 2025)
 
 **MENG 4091 Independent Study** <br>
-(Fall 2020, SP 2021, Fall 2021, SP 2022, Fall 2023, SP 2025, Fall 2025)
+(Fall 2020, SP 2021, Fall 2021, SP 2022, Fall 2023, SP 2025, Fall 2025, SP 2026)
 
 **MENG 4341 Machine & Power System Design** <br>
-(SP 2022, SP 2023, SP 2024, SP 2025)
+(SP 2022, SP 2023, SP 2024, SP 2025, SP 2026)
 
 **MENG 3441 Mechanisms and Dynamics of Machines** <br>
 (Fall 2022(lab only), Fall 2025)
