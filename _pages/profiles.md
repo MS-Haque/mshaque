@@ -13,6 +13,8 @@ nav_order: 6
 **Resume:** [Download PDF](/assets/pdf/jadon_resume.pdf)  
 **LinkedIn:** <https://www.linkedin.com/in/jadon-montgomery-73813219b/>
 
+---
+
 ### **Christopher Antu (February 2026 - December 2027)**
 **Project:** Modeling Ion-Irradiated Mechanical Properties of Novel High-Power Target Materials  
 **Resume:** [Download PDF](/assets/pdf/Chris_resume.pdf)  
