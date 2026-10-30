@@ -179,14 +179,14 @@ ul.task-list input[type="checkbox"] {
 
   .card-title {
     color: var(--global-text-color);
-    font-size: 1.05rem;
+    font-size: 1rem;
     font-weight: 600;
     line-height: 1.3;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.4rem;
   }
 
   .card-body {
-    padding: 1.25rem 1.25rem 1.25rem 1.25rem;
+    padding: 0.75rem;
   }
 }
 
@@ -693,6 +693,10 @@ footer.sticky-bottom {
   .card {
     img {
       width: 100%;
+    height: 160px;
+    object-fit: cover;
+    object-position: center;
+    display: block;
     }
   }
 
@@ -709,11 +713,13 @@ footer.sticky-bottom {
   h2.category {
     color: var(--global-divider-color);
     border-bottom: 1px solid var(--global-divider-color);
-    padding-top: 0.5rem;
-    margin-top: 2rem;
-    margin-bottom: 1rem;
+    padding-top: 0.15rem 0;
+    margin-top: 1rem;
+    margin-bottom: 0.6rem;
     text-align: right;
+    font-size: 1.5rem;
     font-weight: 700;
+    line-height: 1.2;
   }
 }
 
