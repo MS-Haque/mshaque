@@ -9,4 +9,5 @@ nav_order: 3
 
 <p align="center">
   <img src="{{ site.baseurl }}/assets/img/Nanoindenter.jpg" width="350px" alt="Nanoindenter" />
+  <img src="{{ site.baseurl }}/assets/img/group_pic.jpg" width="350px" alt="Nanoindenter" />
 </p>
