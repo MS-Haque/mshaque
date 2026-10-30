@@ -35,7 +35,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/mshaque/publications/";
+            window.location.href = "/mshaque/Leadership/";
           },
         },{id: "nav-people",
           title: "People",
