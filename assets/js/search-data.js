@@ -541,7 +541,7 @@ ninja.data = [{
         title: 'YouTube',
         section: 'Socials',
         handler: () => {
-          window.open("https://youtube.com/@https://www.youtube.com/@MohammadShafinulHaque", "_blank");
+          window.open("https://youtube.com/@MohammadShafinulHaque", "_blank");
         },
       },{
       id: 'light-theme',
