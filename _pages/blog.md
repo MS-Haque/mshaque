@@ -27,45 +27,39 @@ Discover some of my featured research projects and academic work below.
   </div>
 
   <!-- PROJECT 2 BLOCK -->
-<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start; border-bottom: 1px solid #eee; padding-bottom: 25px; margin-bottom: 25px;">
+<div style="border-bottom: 1px solid #eee; padding-bottom: 25px; margin-bottom: 25px;">
   
-  <!-- Left Column: Description & Paper Links -->
-  <div style="flex: 1; min-width: 280px;">
-    <h3 style="margin-top: 0;">ML for Disparate Data and Aleatoric Uncertainty</h3>
-    
-    <p style="color: #555; line-height: 1.6;">
-      Write your second project description here. Keep it engaging for fellow academic researchers or recruiters visiting your profile. You can mention tools or programming languages used.
-    </p>
+  <h3 style="margin-top: 0;">ML for Disparate Data and Aleatoric Uncertainty</h3>
+  
+  <p style="color: #555; line-height: 1.6;">
+    Workflow diagram of creep rupture prediction of Inconel 617 using Python-based machine learning.
+  </p>
 
-    <!-- Published Papers Section -->
-    <div style="margin-top: 12px; margin-bottom: 15px;">
-      <strong style="display: block; margin-bottom: 6px;">Related Publications:</strong>
-      <ul style="margin: 0; padding-left: 20px; line-height: 1.5;">
-        <li>
-          <a href="https://doi.org" target="_blank" rel="noopener noreferrer" style="color: #0076df; text-decoration: none;">
-            Machine Learning Models for Creep Rupture Prediction of Inconel 617
-          </a> (<em>Journal or Conference Name, Year</em>)
-        </li>
-        <li>
-          <a href="https://doi.org/10.1115/1.4068122" rel="noopener noreferrer" style="color: #0076df; text-decoration: none;">
-            Your Second Published Paper Title Here
-          </a> (<em>Journal or Conference Name, Year</em>)
-        </li>
-      </ul>
-    </div>
-
-    <a href="https://github.com" target="_blank" rel="noopener noreferrer" style="font-weight: bold; color: #0076df; text-decoration: none;">
-      View on GitHub →
-    </a>
+  <!-- Full-Width Flow Diagram Picture (Before Related Publications) -->
+  <div style="margin: 20px 0; text-align: center;">
+    <img src="{{ site.baseurl }}/assets/img/flow_diagram.png" alt="ML Workflow Flow Diagram" style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; border: 1px solid #e0e0e0; box-shadow: 0 4px 6px rgba(0,0,0,0.08);">
   </div>
 
-  <!-- Right Column: Flow Diagram Picture -->
-  <div style="flex: 0 0 340px; max-width: 100%; text-align: center;">
-    <a href="{{ site.baseurl }}/assets/img/Figure_3.tif" target="_blank" title="Click to view full-size diagram">
-      <img src="{{ site.baseurl }}/assets/img/flow_diagram.png" alt="ML Workflow Flow Diagram" style="width: 100%; height: auto; border-radius: 8px; border: 1px solid #e0e0e0; box-shadow: 0 4px 6px rgba(0,0,0,0.08);">
-    </a>
-    <small style="display: block; color: #777; margin-top: 6px;">Workflow diagram (click to enlarge)</small>
+  <!-- Published Papers Section -->
+  <div style="margin-top: 15px; margin-bottom: 15px;">
+    <strong style="display: block; margin-bottom: 6px;">Related Publications:</strong>
+    <ul style="margin: 0; padding-left: 20px; line-height: 1.6;">
+      <li>
+        <a href="https://doi.org/10.1115/1.4068122" target="_blank" rel="noopener noreferrer" style="color: #0076df; text-decoration: none;">
+          Machine Learning Models for Creep Rupture Prediction of Inconel 617
+        </a> (<em>ASME Journal, 2025</em>)
+      </li>
+      <li>
+        <a href="https://doi.org/10.1115/GT2025-152252" target="_blank" rel="noopener noreferrer" style="color: #0076df; text-decoration: none;">
+          A Hybrid Stacked Ensemble Learning Framework Using a Time-Temperature Parameter Metamodel for Improved Creep Rupture Prediction
+        </a> (<em>ASME Turbo Expo, 2025</em>)
+      </li>
+    </ul>
   </div>
+
+  <a href="https://github.com" target="_blank" rel="noopener noreferrer" style="font-weight: bold; color: #0076df; text-decoration: none;">
+    View on GitHub →
+  </a>
 
 </div>
 
@@ -79,7 +73,7 @@ Discover some of my featured research projects and academic work below.
       <a href="#" style="font-weight: bold; color: #0076df; text-decoration: none;">See Details →</a>
     </div>
     <div style="flex: 0 0 200px; width: 200px; text-align: center;">
-      <img src="{{ site.baseurl }}/assets/img/project3.png" alt="Project 3 Graphic" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+      <img src="{{ site.baseurl }}/assets/img/project31.png" alt="Project 3 Graphic" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     </div>
   </div>
 
