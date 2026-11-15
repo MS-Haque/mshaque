@@ -37,7 +37,7 @@ Discover some of my featured research projects and academic work below.
 
   <!-- Full-Width Flow Diagram Picture (Before Related Publications) -->
   <div style="margin: 20px 0; text-align: center;">
-    <img src="{{ site.baseurl }}/assets/img/flow_diagram.png" alt="ML Workflow Flow Diagram" style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; border: 1px solid #e0e0e0; box-shadow: 0 4px 6px rgba(0,0,0,0.08);">
+    <img src="{{ site.baseurl }}/assets/img/Figure_31.png" alt="ML Workflow Flow Diagram" style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; border: 1px solid #e0e0e0; box-shadow: 0 4px 6px rgba(0,0,0,0.08);">
   </div>
 
   <!-- Published Papers Section -->
