@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/mshaque/repositories/";
           },
+        },{id: "nav-leadership",
+          title: "Leadership",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/mshaque/Leadership/";
+          },
         },{id: "nav-people",
           title: "People",
           description: "Members of the lab or group",
