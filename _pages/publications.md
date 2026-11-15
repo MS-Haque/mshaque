@@ -1,5 +1,5 @@
 ---
-layout: redirect
+layout: page
 permalink: /Leadership/
 title: Leadership
 nav: true
