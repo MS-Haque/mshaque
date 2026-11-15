@@ -22,5 +22,5 @@ nav_order: 6
 ## Institutional Leadership
 
 - **2025 – Present:** **Curriculum Committee Chair**, David L. Hirschfeld Department of Engineering, Angelo State University. Overseeing curriculum development and accreditation alignment for the Civil Engineering and Mechanical Engineering programs.
-#  [Angelo State Engineering Department](https://angelo.edu)
-  # <img src="{{ site.baseurl }}/assets/img/leadership_photo2.jpg" alt="Department Leadership" width="300">
+< [Angelo State Engineering Department](https://angelo.edu) >
+< <img src="{{ site.baseurl }}/assets/img/leadership_photo2.jpg" alt="Department Leadership" width="300"> >
