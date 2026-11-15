@@ -40,5 +40,47 @@ Research Interests:
 </ul>
 
 **Webpage building in progress**
+<style>
+  /* Brand colors for front-page social icons */
+  .contact-icons a .fa-envelope,
+  .contact-icons a .fa-solid.fa-envelope {
+    color: #EA4335; /* Email Red */
+  }
+  .contact-icons a .fa-linkedin,
+  .contact-icons a .fa-brands.fa-linkedin {
+    color: #0A66C2; /* LinkedIn Blue */
+  }
+  .contact-icons a .ai-google-scholar {
+    color: #4285F4; /* Google Scholar Blue */
+  }
+  .contact-icons a .fa-github,
+  .contact-icons a .fa-brands.fa-github {
+    color: #24292F; /* GitHub Charcoal */
+  }
+  .contact-icons a .ai-orcid {
+    color: #A6CE39; /* ORCID Green */
+  }
+  .contact-icons a .ai-researchgate {
+    color: #00CCBB; /* ResearchGate Teal */
+  }
+  .contact-icons a .fa-instagram,
+  .contact-icons a .fa-brands.fa-instagram {
+    color: #E4405F; /* Instagram Pink */
+  }
+  .contact-icons a .fa-x-twitter,
+  .contact-icons a .fa-brands.fa-x-twitter {
+    color: #1DA1F2; /* X / Twitter Blue */
+  }
+  .contact-icons a .fa-rss,
+  .contact-icons a .fa-solid.fa-rss {
+    color: #EE802F; /* RSS Orange */
+  }
+
+  /* Subtle lift effect when hovering over any icon */
+  .contact-icons a:hover i {
+    transform: scale(1.15);
+    transition: transform 0.2s ease;
+  }
+</style>
 
 
