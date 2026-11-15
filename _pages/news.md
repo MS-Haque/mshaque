@@ -8,23 +8,33 @@ nav_order: 7
 <style>
   .fixed-social-sidebar {
     position: fixed;
-    left: 25px;
-    top: 40%;
+    /* Positions the icons just to the left of the main centered content column */
+    left: calc(50% - 480px);
+    top: 32%;
     display: flex;
     flex-direction: column;
-    gap: 16px;
+    gap: 24px;
     z-index: 1000;
   }
   .fixed-social-sidebar a {
-    font-size: 1.6rem;
-    color: var(--global-text-color);
-    transition: color 0.2s ease, transform 0.2s ease;
+    font-size: 5rem; /* Roughly 1 inch tall on standard screens */
+    line-height: 1;
+    transition: transform 0.2s ease, opacity 0.2s ease;
   }
   .fixed-social-sidebar a:hover {
-    color: var(--global-theme-color);
     transform: scale(1.1);
+    opacity: 0.9;
   }
-  @media (max-width: 992px) {
+  /* Official LinkedIn Blue */
+  .fixed-social-sidebar .linkedin-icon {
+    color: #0A66C2;
+  }
+  /* Official Instagram Pink/Magenta */
+  .fixed-social-sidebar .instagram-icon {
+    color: #E4405F;
+  }
+  /* Hide on narrower screens so large icons never overlap text */
+  @media (max-width: 1100px) {
     .fixed-social-sidebar {
       display: none;
     }
@@ -32,10 +42,10 @@ nav_order: 7
 </style>
 
 <div class="fixed-social-sidebar">
-  <a href="https://www.linkedin.com/in/mohammad-shafinul-haque-864a7454/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" title="LinkedIn">
+  <a class="linkedin-icon" href="https://linkedin.com" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" title="LinkedIn">
     <i class="fa-brands fa-linkedin"></i>
   </a>
-  <a href="https://www.instagram.com/toshafin2026/" target="_blank" rel="noopener noreferrer" aria-label="Instagram" title="Instagram">
+  <a class="instagram-icon" href="https://instagram.com" target="_blank" rel="noopener noreferrer" aria-label="Instagram" title="Instagram">
     <i class="fa-brands fa-instagram"></i>
   </a>
 </div>
