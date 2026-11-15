@@ -5,6 +5,40 @@ permalink: /news/
 nav: true
 nav_order: 7
 ---
+<style>
+  .fixed-social-sidebar {
+    position: fixed;
+    left: 25px;
+    top: 40%;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    z-index: 1000;
+  }
+  .fixed-social-sidebar a {
+    font-size: 1.6rem;
+    color: var(--global-text-color);
+    transition: color 0.2s ease, transform 0.2s ease;
+  }
+  .fixed-social-sidebar a:hover {
+    color: var(--global-theme-color);
+    transform: scale(1.1);
+  }
+  @media (max-width: 992px) {
+    .fixed-social-sidebar {
+      display: none;
+    }
+  }
+</style>
+
+<div class="fixed-social-sidebar">
+  <a href="https://www.linkedin.com/in/mohammad-shafinul-haque-864a7454/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" title="LinkedIn">
+    <i class="fa-brands fa-linkedin"></i>
+  </a>
+  <a href="https://www.instagram.com/toshafin2026/" target="_blank" rel="noopener noreferrer" aria-label="Instagram" title="Instagram">
+    <i class="fa-brands fa-instagram"></i>
+  </a>
+</div>
 
 - **April 2026:** Finalist at Angelo State President's Award for Faculty Excellence in Research!
   <img src="{{ site.baseurl }}/assets/img/research_award.jpg" alt="Award ceremony" width="300">
