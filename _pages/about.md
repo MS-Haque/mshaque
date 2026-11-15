@@ -40,47 +40,79 @@ Research Interests:
 </ul>
 
 **Webpage building in progress**
+
 <style>
-  /* Brand colors for front-page social icons */
-  .contact-icons a .fa-envelope,
-  .contact-icons a .fa-solid.fa-envelope {
-    color: #EA4335; /* Email Red */
-  }
-  .contact-icons a .fa-linkedin,
-  .contact-icons a .fa-brands.fa-linkedin {
-    color: #0A66C2; /* LinkedIn Blue */
-  }
-  .contact-icons a .ai-google-scholar {
-    color: #4285F4; /* Google Scholar Blue */
-  }
-  .contact-icons a .fa-github,
-  .contact-icons a .fa-brands.fa-github {
-    color: #24292F; /* GitHub Charcoal */
-  }
-  .contact-icons a .ai-orcid {
-    color: #A6CE39; /* ORCID Green */
-  }
-  .contact-icons a .ai-researchgate {
-    color: #00CCBB; /* ResearchGate Teal */
-  }
-  .contact-icons a .fa-instagram,
-  .contact-icons a .fa-brands.fa-instagram {
-    color: #E4405F; /* Instagram Pink */
-  }
-  .contact-icons a .fa-x-twitter,
-  .contact-icons a .fa-brands.fa-x-twitter {
-    color: #1DA1F2; /* X / Twitter Blue */
-  }
-  .contact-icons a .fa-rss,
-  .contact-icons a .fa-solid.fa-rss {
-    color: #EE802F; /* RSS Orange */
+  /* Brand colors for al-folio social icons (supports both SVG and icon fonts) */
+  .social .contact-icons a[href^="mailto:"],
+  .social .contact-icons a[href^="mailto:"] i,
+  .social .contact-icons a[href^="mailto:"] svg {
+    color: #EA4335 !important;
+    fill: #EA4335 !important;
   }
 
-  /* Subtle lift effect when hovering over any icon */
-  .contact-icons a:hover i {
+  .social .contact-icons a[href*="linkedin.com"],
+  .social .contact-icons a[href*="linkedin.com"] i,
+  .social .contact-icons a[href*="linkedin.com"] svg {
+    color: #0A66C2 !important;
+    fill: #0A66C2 !important;
+  }
+
+  .social .contact-icons a[href*="://google.com"],
+  .social .contact-icons a[href*="://google.com"] i,
+  .social .contact-icons a[href*="://google.com"] svg {
+    color: #4285F4 !important;
+    fill: #4285F4 !important;
+  }
+
+  .social .contact-icons a[href*="github.com"],
+  .social .contact-icons a[href*="github.com"] i,
+  .social .contact-icons a[href*="github.com"] svg {
+    color: #24292F !important;
+    fill: #24292F !important;
+  }
+
+  .social .contact-icons a[href*="orcid.org"],
+  .social .contact-icons a[href*="orcid.org"] i,
+  .social .contact-icons a[href*="orcid.org"] svg {
+    color: #A6CE39 !important;
+    fill: #A6CE39 !important;
+  }
+
+  .social .contact-icons a[href*="researchgate.net"],
+  .social .contact-icons a[href*="researchgate.net"] i,
+  .social .contact-icons a[href*="researchgate.net"] svg {
+    color: #00CCBB !important;
+    fill: #00CCBB !important;
+  }
+
+  .social .contact-icons a[href*="instagram.com"],
+  .social .contact-icons a[href*="instagram.com"] i,
+  .social .contact-icons a[href*="instagram.com"] svg {
+    color: #E4405F !important;
+    fill: #E4405F !important;
+  }
+
+  .social .contact-icons a[href*="twitter.com"],
+  .social .contact-icons a[href*="x.com"],
+  .social .contact-icons a[href*="twitter.com"] i,
+  .social .contact-icons a[href*="x.com"] i,
+  .social .contact-icons a[href*="twitter.com"] svg,
+  .social .contact-icons a[href*="x.com"] svg {
+    color: #1DA1F2 !important;
+    fill: #1DA1F2 !important;
+  }
+
+  .social .contact-icons a[href*="feed.xml"],
+  .social .contact-icons a[href*="feed.xml"] i,
+  .social .contact-icons a[href*="feed.xml"] svg {
+    color: #EE802F !important;
+    fill: #EE802F !important;
+  }
+
+  /* Subtle lift effect on hover */
+  .social .contact-icons a:hover {
     transform: scale(1.15);
     transition: transform 0.2s ease;
+    display: inline-block;
   }
 </style>
-
-
