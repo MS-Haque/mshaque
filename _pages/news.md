@@ -9,7 +9,7 @@ nav_order: 7
   .fixed-social-sidebar {
     position: fixed;
     /* Positions the icons just to the left of the main centered content column */
-    left: calc(50% - 480px);
+    left: calc(50% - 580px);
     top: 32%;
     display: flex;
     flex-direction: column;
