@@ -42,10 +42,10 @@ nav_order: 7
 </style>
 
 <div class="fixed-social-sidebar">
-  <a class="linkedin-icon" href="https://linkedin.com" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" title="LinkedIn">
+  <a class="linkedin-icon" href="https://www.linkedin.com/in/mohammad-shafinul-haque-864a7454/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" title="LinkedIn">
     <i class="fa-brands fa-linkedin"></i>
   </a>
-  <a class="instagram-icon" href="https://instagram.com" target="_blank" rel="noopener noreferrer" aria-label="Instagram" title="Instagram">
+  <a class="instagram-icon" href="https://www.instagram.com/toshafin2026/" target="_blank" rel="noopener noreferrer" aria-label="Instagram" title="Instagram">
     <i class="fa-brands fa-instagram"></i>
   </a>
 </div>
